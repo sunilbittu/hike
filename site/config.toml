@@ -10,6 +10,10 @@ title = "Hikers World"
     url  = "/about"
     weight = 1
 [[menu.main]]
+    name = "Blog"
+    url  = "/blog"
+    weight = 2
+[[menu.main]]
     name = "Contact"
     url  = "/contact"
-    weight = 2
+    weight = 3
