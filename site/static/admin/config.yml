@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: sunilbittu/hike
   branch: master # Branch to update (optional; defaults to master)
 
