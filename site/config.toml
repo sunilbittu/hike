@@ -1,0 +1,15 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Hikers World"
+
+[params]
+  description = "It’s not the mountain we conquer, but ourselves."
+
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 1
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact"
+    weight = 2
